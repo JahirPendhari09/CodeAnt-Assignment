@@ -50,5 +50,5 @@ The application is deployed on netlify and can be accessed [https://codeant-fron
    # Credits <br/>
    This project was developed by ```Jahir Pendhari```.
 
-   <p>Feel free to explore and integrate these endpoints into your application.</p>
+   <p>Feel free to explore, and thank you for taking the time to read through this repository. Your feedback and suggestions are always welcome! </p>
   
